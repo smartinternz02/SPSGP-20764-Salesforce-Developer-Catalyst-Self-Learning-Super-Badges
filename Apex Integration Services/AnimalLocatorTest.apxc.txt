@@ -1,4 +1,4 @@
-AnimalLocatorTest.apxc
+AnimalsCalloutsTest.apxc
 
 @isTest
 private class AnimalsCalloutsTest {
